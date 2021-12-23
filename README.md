@@ -1,5 +1,5 @@
 # Christmas time!
-This is **Christmas** season, so why don't we console.log a christmas tree?
+This is **Christmas** season, so why don't we draw a christmas tree with JS?
 
 You will be given the height of the tree, so for example if the `height` 
 is `5` we would expect this result:
